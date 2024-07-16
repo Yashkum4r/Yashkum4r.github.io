@@ -2,7 +2,7 @@
 
 ## About Me
 
-I completed my senior secondary education from Government Senior Secondary School (MULTIPURPOSE).I'm a first-year computer science student at Guru Nanak Dev Engineering College.
+I am from Ludhiana "Punjab".I am a science student.I am interested in tech related things specially "computers and smartphones".so i decided to do Btech from Guru Nanak Dev Engineering College.
 
 ## About My Studies
 
