@@ -2,7 +2,12 @@
 
 ## About Me
 
-I completed my senior secondary education from Government Senior Secondary School (MULTIPURPOSE).
+I completed my senior secondary education from Government Senior Secondary School (MULTIPURPOSE).I'm a first-year computer science student at Guru Nanak Dev Engineering College.
+
+## About My Studies
+
+* Pursuing Bachelor's in Computer Science
+* Currently in First Year
 
 ## Hobbies
 
