@@ -11,7 +11,7 @@ I am from Ludhiana "Punjab".I am a science student.I am interested in tech relat
 
 ## Hobbies
 
-* Writing songs
+* Writing 
 * Playing adventure games
 
 ## Skills
