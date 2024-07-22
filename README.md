@@ -22,3 +22,7 @@ I am from Ludhiana "Punjab".I am a science student.I am interested in tech relat
 
 * "Never disappoint from your life"
 * "Wherever you are, you are very good"
+
+
+
+![Excel certificate](YASH KUMAR_page-0001.jpg)
